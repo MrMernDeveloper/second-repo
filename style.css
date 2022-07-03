@@ -1,0 +1,33 @@
+
+body{
+    background-image: url("gqiGH7.jpg");
+}
+.page{
+    
+    margin: auto;
+    width: 500px;
+    height: 400px;
+    margin-top: 100px;
+    background-color: rgb(144, 199, 181,0.8);
+    border-radius: 80px 80px;
+    
+    
+}
+
+
+form,label,input,button{
+    font-style: bold;
+    margin-top: 120px;
+    margin-left: 40px;
+    border-radius: 4px 4px;
+    
+
+}
+input,button{
+    background-color: rgba(255, 250, 219, 0.8);
+}
+
+ div,a{
+    margin-top: 20px;
+}
+
